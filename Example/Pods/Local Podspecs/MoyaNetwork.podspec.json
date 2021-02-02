@@ -1,0 +1,30 @@
+{
+  "name": "MoyaNetwork",
+  "version": "0.1.0",
+  "summary": "A short description of MoyaNetwork.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/UI/MoyaNetwork",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "UI": "schyhk@163.com"
+  },
+  "source": {
+    "git": "https://github.com/UI/MoyaNetwork.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "9.0"
+  },
+  "source_files": "MoyaNetwork/Classes/**/*",
+  "dependencies": {
+    "Moya/RxSwift": [
+
+    ],
+    "HandyJSON": [
+
+    ]
+  }
+}

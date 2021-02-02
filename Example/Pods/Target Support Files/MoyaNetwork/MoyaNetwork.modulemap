@@ -1,0 +1,6 @@
+framework module MoyaNetwork {
+  umbrella header "MoyaNetwork-umbrella.h"
+
+  export *
+  module * { export * }
+}
